@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media1.tenor.com/m/sNWoRvvT2-oAAAAd/racoon-computer-on-fire.gif" width="200" alt="Racoon on fire"  />
+<img align="right" height="200" src="https://i.pinimg.com/originals/b6/e9/7d/b6e97d9c28651e1c05f91637334563a5.gif"  />
 
 ###
 
