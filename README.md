@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm a digital designer, animator, and programmer, currently completing my degree.<br>I'm passionate about creating visual experiences with a powerful emotional impact. I love working with 3D models and animations, both 2D and 3D.<br><br>- 📍 Argentina<br>- 🌷 I’m currently learning Python<br>- ✉️ How to reach me: justinabaquela@gmail.com</p>
+<p align="left">I'm a digital designer, animator, and programmer, currently completing my degree.<br>I'm passionate about creating visual experiences with a powerful emotional impact. I love working with 3D models and animations.<br><br>- 📍 Argentina<br>- 🌷 I’m currently learning Python<br>- ✉️ How to reach me: justinabaquela@gmail.com</p>
 
 ###
 
